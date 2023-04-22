@@ -27,3 +27,5 @@ $('img[data-enlargable]').addClass('img-enlargable').click(function(){
         $(this).remove();
     }).appendTo('body');
 });
+
+// end of code //
